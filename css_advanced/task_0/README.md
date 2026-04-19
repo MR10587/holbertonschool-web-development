@@ -1,5 +1,11 @@
-This project, css-advanced, is designed to strengthen my styling skills for front-end web development. It serves as a practical foundation for understanding how modern web interfaces are structured, styled, and rendered across browsers.
+## CSS Advanced
 
-Through this project, I will build a deeper understanding of advanced CSS concepts and their real-world applications. The work will focus on selectors, classes, the box model, layout behavior, and other essential styling techniques that influence the appearance and usability of web pages.
+This project is about learning to use CSS by styling a simple web page from an existing Figma designer file.
 
-In addition to improving my technical CSS knowledge, this project will help me develop a more professional approach to front-end development by emphasizing clean structure, consistent styling, and a better understanding of how browsers load and display content.
+It will focus on **CSS** styling, without using any external library.
+
+Here is the deployed **GitHub Pages** of the final result: [SmileSchool](https://gwendalminguy.github.io/holbertonschool-web-development/css_advanced/task_1/index.html)
+
+The goal of the project is to replicate a *School Page* with the following design:
+
+<br><img src="../assets/school_page.png" alt="School Page"/><br>
